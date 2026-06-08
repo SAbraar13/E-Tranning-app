@@ -46,14 +46,14 @@ Our vision is to create a simple and user-friendly platform that connects learne
 
 ## Key Features
 
-* User Registration and Login
-* Home Dashboard
-* Program Listing
-* Program Details
-* Event Registration
-* Announcements and Notifications
-* Feedback Submission
-* User Profile Management
+* User Registration and Login.
+* Home Dashboard.
+* Program Listing.
+* Program Details.
+* Event Registration.
+* Announcements and Notifications.
+* Feedback Submission.
+* User Profile Management.
 
 ---
 
